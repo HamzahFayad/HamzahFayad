@@ -6,7 +6,7 @@ Vue.js, Node.js/REST API
 VS Code, Figma, Adobe XD
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzahFayad)](https://github.com/HamzahFayad/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HamzahFayad=anuraghazra&show_icons=true&theme=tokyonight)
 
 <!---
 HamzahFayad/HamzahFayad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
