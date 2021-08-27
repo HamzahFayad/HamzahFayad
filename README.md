@@ -1,4 +1,5 @@
-👋 Hi, I’m @HamzahFayad (22), I’m interested in web development, photography, cinematography, sports, movies ...
+👋 Hi, I’m @HamzahFayad (22), I’m interested in web development, photography, cinematography, sports, movies...
+
 🛠
 HTML, SCSS/CSS, JavaScript
 Vue.js, Node.js/REST API
