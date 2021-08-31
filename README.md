@@ -1,4 +1,4 @@
-👋 Hi, I’m @HamzahFayad (22) 😊
+👋 Hi, I’m @HamzahFayad (22)
 
 🛠 Toolbox:
 * HTML, SCSS/CSS, JavaScript, Git // (jQuery, Python)
