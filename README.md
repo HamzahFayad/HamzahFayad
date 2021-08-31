@@ -1,4 +1,4 @@
-👋 Hi, I’m @HamzahFayad (22), I’m interested in web development, photography, cinematography, sports, movies...
+👋 Hi, I’m @HamzahFayad (22) 😊
 
 🛠 Toolbox:
 * HTML, SCSS/CSS, JavaScript // (jQuery, Python)
@@ -7,7 +7,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzahFayad&show_icons=true&theme=tokyonight)
 
-<!---
-HamzahFayad/HamzahFayad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hobbies:
+* web development 💻
+* photography & cinematography 📸
+* sports (fitness, table tennis) 🏋️‍♂️
+* movies 🎬
