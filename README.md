@@ -1,7 +1,7 @@
 👋 Hi, I’m @HamzahFayad (22), I’m interested in web development, photography, cinematography, sports, movies...
 
 🛠 Toolbox:
-* HTML, SCSS/CSS, JavaScript
+* HTML, SCSS/CSS, JavaScript // {jQuery, Python}
 * Vue.js, Node.js/REST API
 * VS Code, Figma, Adobe XD
 
