@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzahFayad&show_icons=true&theme=tokyonight)
 
-Hobbies:
+🎳 Hobbies:
 * web development 💻
 * photography & cinematography 📸
 * sports (fitness, table tennis) 🏋️‍♂️
