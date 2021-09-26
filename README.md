@@ -5,13 +5,13 @@
 * Vue.js, Node.js/REST API
 * VS Code, Figma, Adobe XD
 
-What I am currently learning:
+📖 What I am currently learning:
 * Bootstrap
 *  Vue.js & Node.js/REST API
 *  Python
 *  Typescript
 
-What I want to learn in the near future:
+🤖 What I want to learn in the near future:
 * Machine Learning
 * Testing
 
