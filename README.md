@@ -9,7 +9,7 @@
 * Bootstrap
 *  Vue.js & Node.js/REST API
 *  Python
-*  Typescript
+<!--* Typescript-->
 
 🤖 What I want to learn in the near future:
 * Machine Learning
