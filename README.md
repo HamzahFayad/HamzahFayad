@@ -6,6 +6,7 @@
 * VS Code, Figma, Adobe XD
 
 What I am currently learning:
+* Bootstrap
 *  Vue.js & Node.js/REST API
 *  Python
 *  Typescript
