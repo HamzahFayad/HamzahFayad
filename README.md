@@ -1,13 +1,12 @@
 👋 Hi, I’m @HamzahFayad (22)
 
 🛠 Toolbox:
-* HTML, SCSS/CSS, JavaScript, Git // (basics of jQuery, Python)
+* HTML, SCSS/CSS, JavaScript, Wordpress, Git // (basics of jQuery, Python)
 * Vue.js, Node.js/REST API
 * VS Code, Figma, Adobe XD
 
 📖 What I am currently learning:
 *  Vue.js & Node.js/REST API
-*  Wordpress Development (PHP, ACF)
 *  Python
 *  Bootstrap
 <!--* Typescript-->
