@@ -1,7 +1,7 @@
 👋 Hi, I’m @HamzahFayad (22)
 
 🛠 Toolbox:
-* HTML, SCSS/CSS, JavaScript, Wordpress, Git // (basics of jQuery, Python)
+* HTML, SCSS/CSS, JavaScript, Wordpress/PHP, Git // (basics of jQuery, Python)
 * Vue.js, Node.js/REST API
 * VS Code, Figma, Adobe XD
 
