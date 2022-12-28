@@ -14,8 +14,7 @@
 🤖 What I want to learn in the near future:
 * Machine Learning
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzahFayad&show_icons=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzahFayad&hide=contribs,prs)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzahFayad&show_icons=true&theme=tokyonight)-->
 
 
 🎳 Interests/Hobbies:
