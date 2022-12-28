@@ -1,19 +1,18 @@
-👋 Hi, I’m @HamzahFayad (22)
+👋 Hi, I’m @HamzahFayad (23)
 
 🛠 Toolbox:
-* HTML, SCSS/CSS, JavaScript, Wordpress/PHP, Git // (basics of jQuery, Python)
-* Vue.js, Node.js/REST API
+* HTML, SCSS/CSS, JavaScript, Wordpress/PHP, jQuery, Git // (basics Python)
+* Vue.js, React, Node.js/REST API
 * VS Code, Figma, Adobe XD
 
-📖 What I am currently learning:
+<!--📖 What I am currently learning:
 *  Vue.js & Node.js/REST API
 *  Python
 *  Bootstrap
-<!--* Typescript-->
+* Typescript-->
 
 🤖 What I want to learn in the near future:
 * Machine Learning
-* Testing
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzahFayad&show_icons=true&theme=tokyonight)
 
