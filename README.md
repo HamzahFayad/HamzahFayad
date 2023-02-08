@@ -11,9 +11,6 @@
 *  Bootstrap
 * Typescript-->
 
-🤖 What I want to learn in the near future:
-* Machine Learning
-
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzahFayad&show_icons=true&theme=tokyonight)-->
 
 
