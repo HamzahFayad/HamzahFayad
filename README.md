@@ -1,15 +1,13 @@
 👋 Hi, I’m @HamzahFayad (23)
 
 🛠 Toolbox:
-* HTML, SCSS/CSS, JavaScript, Wordpress/PHP, jQuery, Git // (basics Python)
+* HTML, SCSS/CSS, JavaScript, Wordpress/PHP, jQuery, p5.js
 * Vue.js, React, Node.js/REST API
 * VS Code, Figma, Adobe XD
 
 <!--📖 What I am currently learning:
-*  Vue.js & Node.js/REST API
-*  Python
-*  Bootstrap
-* Typescript-->
+*  p5.js
+*  React
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzahFayad&show_icons=true&theme=tokyonight)-->
 
