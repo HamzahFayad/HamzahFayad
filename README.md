@@ -9,6 +9,8 @@
 *  p5.js
 *  React
 
+![HamzahFayad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HamzahFayad&theme=vue-dark&hide_border=true)
+
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzahFayad&show_icons=true&theme=tokyonight)-->
 
 
