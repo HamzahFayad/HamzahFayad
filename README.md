@@ -16,7 +16,7 @@
 
 
 🎳 Interests/Hobbies:
-* web development & interactive webapps 💻
+* web development & creative coding 💻
 * photography & film 📸
 * sports (fitness, table tennis) 🏋️‍♂️ 🏓
 * movies 🎬
