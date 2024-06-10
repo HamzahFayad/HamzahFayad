@@ -1,4 +1,4 @@
-👋 Hi, I’m @HamzahFayad (24)
+👋 Hi, I’m @HamzahFayad
 
 🛠 Toolbox:
 * HTML, SCSS/CSS, JavaScript, Wordpress/PHP, jQuery, p5.js
