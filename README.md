@@ -1,7 +1,7 @@
 👋 Hi, I’m @HamzahFayad
 
 * HTML, SCSS/CSS, JavaScript, Wordpress/PHP, jQuery, p5.js
-* React, Vue.js, Node.js/REST
+* React, Svelte, Vue.js, Node.js/REST
 * Figma, Adobe XD
 
 ![HamzahFayad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HamzahFayad&theme=tokyonight&hide_border=false)
