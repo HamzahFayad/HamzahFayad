@@ -1,4 +1,4 @@
-👋 Hi, I’m @HamzahFayad
+👋 Hi
 
 * HTML, SCSS/CSS, JavaScript, Wordpress/PHP, jQuery, p5.js
 * React, Svelte, Vue.js, Node.js/REST
