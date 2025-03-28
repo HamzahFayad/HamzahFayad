@@ -35,4 +35,5 @@
 * web development & creative coding 💻
 * photography & film 📸
 * sports (fitness, table tennis) 🏋️‍♂️ 🏓
-* movies 🎬
+* movies 🎬 ![Photography](https://img.shields.io/badge/Photography-FFD700?style=for-the-badge&logo=instagram&logoColor=white)
+
