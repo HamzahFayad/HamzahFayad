@@ -27,7 +27,8 @@
 
 <!--![HamzahFayad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HamzahFayad&theme=tokyonight&hide_border=false)-->
 ![HamzahFayad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzahFayad&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzahFayad&show_icons=true&hide_border=true&theme=tokyonight)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HamzahFayad&theme=tokyonight&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=HamzahFayad)
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzahFayad&show_icons=true&theme=tokyonight)-->
 
