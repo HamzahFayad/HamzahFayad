@@ -20,6 +20,7 @@
 
 
 🎳 Interests/Hobbies:
+![Lightroom](https://img.shields.io/badge/Lightroom-F0A500?style=for-the-badge&logo=adobe-lightroom&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-9E1D2D?style=for-the-badge&logo=da-vinci-resolve&logoColor=white) 
 * web development & creative coding 💻
 * photography & film 📸
 * sports (fitness, table tennis) 🏋️‍♂️ 🏓
