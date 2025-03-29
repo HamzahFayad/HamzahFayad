@@ -1,4 +1,6 @@
-👋
+👋🏼
+
+<p align="center"><i>"If I already have a vision, my work is almost done. The rest is a technical problem."</i><br>— Hiroshi Sugimoto</p>
 
 <!--* HTML • SCSS/CSS • JavaScript • Python • Wordpress/PHP • jQuery • p5.js
 * React • Svelte • Vue.js • Node.js/REST
