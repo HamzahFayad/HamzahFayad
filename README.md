@@ -1,11 +1,12 @@
 👋🏼
 
-<p align="center"><i>"If I already have a vision, my work is almost done. The rest is a technical problem."</i><br>— Hiroshi Sugimoto</p>
+<p align="center"><i>"If I already have a vision, my work is almost done. The rest is a technical problem."</i><br>- Hiroshi Sugimoto</p>
 
 <!--* HTML • SCSS/CSS • JavaScript • Python • Wordpress/PHP • jQuery • p5.js
 * React • Svelte • Vue.js • Node.js/REST
 * pandas • matplotlib • seaborn
 * Figma • Adobe XD-->
+
 
 ![HTML](https://img.shields.io/badge/HTML5-F1A25D?style=for-the-badge&logo=html5&logoColor=white)  ![SCSS/CSS](https://img.shields.io/badge/SCSS/CSS-5A8C99?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F2D24B?style=for-the-badge&logo=javascript&logoColor=black)  ![Python](https://img.shields.io/badge/Python-6A94B4?style=for-the-badge&logo=python&logoColor=white)  ![WordPress/PHP](https://img.shields.io/badge/WordPress/PHP-4B6A99?style=for-the-badge&logo=wordpress&logoColor=white)  ![jQuery](https://img.shields.io/badge/jQuery-4F8E9F?style=for-the-badge&logo=jquery&logoColor=white)  ![p5.js](https://img.shields.io/badge/p5.js-D46A7B?style=for-the-badge&logo=p5.js&logoColor=white)  
 
