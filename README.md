@@ -17,7 +17,7 @@
 ![Figma](https://img.shields.io/badge/Figma-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF3B9E?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
 <!--![HamzahFayad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HamzahFayad&theme=tokyonight&hide_border=false)-->
-![HamzahFayad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzahFayad&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+<!--![HamzahFayad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzahFayad&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)-->
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HamzahFayad)
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzahFayad&show_icons=true&theme=tokyonight)-->
