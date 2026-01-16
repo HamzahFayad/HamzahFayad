@@ -18,7 +18,7 @@
 
 <!--![HamzahFayad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HamzahFayad&theme=tokyonight&hide_border=false)-->
 <!--![HamzahFayad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzahFayad&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)-->
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HamzahFayad)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HamzahFayad&hide=Jupyter%20Notebook)
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzahFayad&show_icons=true&theme=tokyonight)-->
 
